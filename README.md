@@ -2,6 +2,10 @@
 Routing, switching, and network security labs completed as part of a Bachelor of IT (Networking &amp; Cybersecurity) at UTS.
 # Networking Labs
 
+> Related work: See my [Security Labs](https://github.com/MagTro29/security-labs)
+> for cryptography, information security management, and incident analysis.
+
+
 This repository contains hands-on networking and network security labs
 completed as part of my Bachelor of Information Technology
 (Networking & Cybersecurity) at the University of Technology Sydney (UTS).
